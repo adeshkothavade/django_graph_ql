@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--tpgtmtp(k+r)+dc%0(pz+ry*#(y-846vf)y#4mx6xa4(z(%^*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-graph-ql.azurewebsites.net']
 
 
 # Application definition
